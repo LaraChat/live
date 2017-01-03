@@ -3,7 +3,7 @@ LaraChat Live Video Cast
 
 [Subscribe with iTunes](https://itunes.apple.com/ca/podcast/larachat-live/id1178173864?mt=2)
 
-[Follow us on Twitter](https://twitter.com/larachat_slack)
+[Follow us on Twitter](https://twitter.com/larachatslack)
 
 Want to Get Involved?
 ==
